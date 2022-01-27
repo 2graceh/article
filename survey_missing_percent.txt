@@ -1,0 +1,54 @@
+Column Name :  participant_id
+Column Contents :  False    1000
+Name: participant_id, dtype: int64
+Missing count w/n column: participant_id is 0.0
+Column Missing Percent:  0.00 %, which is 0 divided by 1001 
+
+
+Column Name :  first_name
+Column Contents :  False    944
+True      56
+Name: first_name, dtype: int64
+Missing count w/n column: first_name is 56.0
+Column Missing Percent:  5.59 %, which is 56 divided by 1001 
+
+
+Column Name :  last_name
+Column Contents :  False    612
+True     388
+Name: last_name, dtype: int64
+Missing count w/n column: last_name is 388.0
+Column Missing Percent:  38.76 %, which is 388 divided by 1001 
+
+
+Column Name :  email
+Column Contents :  False    709
+True     291
+Name: email, dtype: int64
+Missing count w/n column: email is 291.0
+Column Missing Percent:  29.07 %, which is 291 divided by 1001 
+
+
+Column Name :  gender
+Column Contents :  False    869
+True     131
+Name: gender, dtype: int64
+Missing count w/n column: gender is 131.0
+Column Missing Percent:  13.09 %, which is 131 divided by 1001 
+
+
+Column Name :  movie
+Column Contents :  False    1000
+Name: movie, dtype: int64
+Missing count w/n column: movie is 0.0
+Column Missing Percent:  0.00 %, which is 0 divided by 1001 
+
+
+Column Name :  genre
+Column Contents :  False    812
+True     188
+Name: genre, dtype: int64
+Missing count w/n column: genre is 188.0
+Column Missing Percent:  18.78 %, which is 188 divided by 1001 
+
+
